@@ -1,0 +1,10 @@
+F:\GraduationTracker\bin\Debug\GraduationTracker.dll
+F:\GraduationTracker\bin\Debug\GraduationTracker.pdb
+F:\GraduationTracker\obj\Debug\GraduationTracker.csproj.CoreCompileInputs.cache
+F:\GraduationTracker\obj\Debug\GraduationTracker.dll
+F:\GraduationTracker\obj\Debug\GraduationTracker.pdb
+F:\Test\GraduationTracker\bin\Debug\GraduationTracker.dll
+F:\Test\GraduationTracker\bin\Debug\GraduationTracker.pdb
+F:\Test\GraduationTracker\obj\Debug\GraduationTracker.csproj.CoreCompileInputs.cache
+F:\Test\GraduationTracker\obj\Debug\GraduationTracker.dll
+F:\Test\GraduationTracker\obj\Debug\GraduationTracker.pdb
